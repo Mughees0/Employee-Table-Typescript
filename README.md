@@ -4,4 +4,4 @@ First frontend project with typescript which has search and mapping.
 ## To run 
 - cd into project
 - npm install 
-- npm run
+- npm start
